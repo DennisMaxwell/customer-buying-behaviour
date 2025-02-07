@@ -25,7 +25,7 @@ The dataset is provided in CSV format and contains customer transactional, demog
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DennisMaxwell/customer-buying-behavior-prediction.git
+   git clone https://github.com/DennisMaxwell/customer-buying-behaviour-prediction.git
    ```
 
 2. Navigate to the project directory:
